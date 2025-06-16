@@ -54,7 +54,7 @@ public class Main {
             //System.out.println("Your friend is not online");
         //}
 
-        //this is how you do it
+        //this is how you do it yeah
 
     }
 }
